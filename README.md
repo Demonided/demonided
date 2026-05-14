@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gh-stats.com/api/top-langs/?username=demonided&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonided&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" width="45%" />
 </p>
 ---
 
