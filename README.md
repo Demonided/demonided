@@ -34,12 +34,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demonided&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" width="48%" />
+  <img src="https://gh-stats.com/api?username=demonided&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=demonided&theme=dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonided&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" width="45%" />
+  <img src="https://gh-stats.com/api/top-langs/?username=demonided&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" width="45%" />
 </p>
 ---
 
