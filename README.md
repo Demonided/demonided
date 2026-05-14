@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="./github-metrics.svg" width="80%" />
+  <img src="./github-metrics.svg" width="50%" />
 </p>
 
 ---
