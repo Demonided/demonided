@@ -39,12 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="./metrics/metrics.plugin.isocalendar.svg" width="80%" />
-</p>
-
-<p align="center">
-  <img src="./metrics/metrics.plugin.languages.svg" width="45%" />
-  <img src="./metrics/metrics.plugin.activity.svg" width="45%" />
+  <img src="./github-metrics.svg" width="80%" />
 </p>
 
 ---
