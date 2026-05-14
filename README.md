@@ -39,7 +39,12 @@
 </p>
 
 <p align="center">
-  <img src="https://gh-stats.com/api/top-langs/?username=demonided&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" width="45%" />
+  <img src="./metrics/metrics.plugin.isocalendar.svg" width="80%" />
+</p>
+
+<p align="center">
+  <img src="./metrics/metrics.plugin.languages.svg" width="45%" />
+  <img src="./metrics/metrics.plugin.activity.svg" width="45%" />
 </p>
 
 ---
