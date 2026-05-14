@@ -1,14 +1,68 @@
-<h1 align="center">Hi 👋, I'm Maksim Shostak</h1>
-<h3 align="center">Android-developer from Belgorod, Russian Federation</h3>
+<h1 align="center">👋 Hi, I'm Maksim Shostak</h1>
+<h3 align="center">🚀 Android Developer | Kotlin & Java Enthusiast from Belgorod, Russia</h3>
 
-- 🌱 I’m currently learning **Android apps.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://hashnode.com/sadasdasdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sadasdasdas" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=demonided&label=Profile%20Views&color=0e75b6&style=flat" alt="demonided" />
+  <img src="https://img.shields.io/github/followers/demonided?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demonided&show_icons=true&locale=en" alt="demonided" /></p>
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Android applications**
+- 🌱 I’m currently learning **Jetpack Compose, Clean Architecture, Multi-module projects**
+- 💬 Ask me about **Kotlin, Java, Firebase, Figma**
+- 📫 How to reach me: **@Maksim_Shostak** on Telegram
+- ⚡ Fun fact: I love turning ideas into sleek mobile experiences
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=demonided&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=demonided&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonided&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+---
+
+### 📱 Connect with me
+
+<p align="left">
+  <a href="https://t.me/Maksim_Shostak" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <!-- При желании добавь сюда LinkedIn, Email или другие соцсети -->
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+*Coming soon...*  
+
+<!--
+Пример оформления проектов:
+- [Название проекта](ссылка на репозиторий) – короткое описание, что делает приложение.
+- [Ещё проект](ссылка) – какие технологии использовал.
+-->
+
+---
+
+⭐️ From [demonided](https://github.com/demonided)
