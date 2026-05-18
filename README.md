@@ -20,14 +20,12 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-</p>
+<a href="https://square.github.io/retrofit/" target="_blank"><img src="https://img.shields.io/badge/Retrofit-00C853?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit"/></a>
+<a href="https://kotlinlang.org/docs/coroutines-basics.html" target="_blank"><img src="https://img.shields.io/badge/Structured_Concurrency-3DDC84?style=for-the-badge&logo=kotlin&logoColor=white" alt="Structured Concurrency"/></a>
+<a href="https://kotlinlang.org/docs/coroutines-overview.html" target="_blank"><img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines"/></a>
+<a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/></a>
+<a href="https://kotlinlang.org/docs/flow.html" target="_blank"><img src="https://img.shields.io/badge/Flow-00B4D8?style=for-the-badge&logo=kotlin&logoColor=white" alt="Flow"/></a>
 
 ---
 
